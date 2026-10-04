@@ -10,7 +10,7 @@ int main()
     printf("Enter c: \n");
     scanf("%d", &c);
  
-    printf("My name is Raj Gupta and this is question 14");
+    printf("My name is Raj Gupta and this is question 14\n");
     if (a > b && a > c)
     {
         printf("the greatest of all is %d", a);
