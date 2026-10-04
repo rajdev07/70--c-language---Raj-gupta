@@ -3,6 +3,7 @@
 int main() {
     int n, a = 0, b = 1, next;
 
+   printf("My name is Raj Gupta and this is question 13");
     printf("Enter the number of terms: ");
     scanf("%d", &n);
 
