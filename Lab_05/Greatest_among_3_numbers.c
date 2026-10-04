@@ -9,7 +9,9 @@ int main()
     scanf("%d", &b);
     printf("Enter c: \n");
     scanf("%d", &c);
-     if (a > b && a > c)
+ 
+    printf("My name is Raj Gupta and this is question 14");
+    if (a > b && a > c)
     {
         printf("the greatest of all is %d", a);
     }
