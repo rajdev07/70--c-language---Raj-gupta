@@ -2,6 +2,7 @@
 int main()
 {
     int a = 10, b = 7;
+   printf("My name is Raj Gupta and this is question 7");
     printf("a & b = %d\n", a & b); // Bitwise AND operator(&)
     printf("a | b = %d\n", a | b); // Bitwise OR operator(|)
     printf("a ^ b = %d\n", a ^ b); // Bitwise  XOR operator(^)
